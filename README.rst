@@ -6,8 +6,8 @@ ncinspect
 .. image:: https://img.shields.io/pypi/v/ncinspect.svg
         :target: https://pypi.python.org/pypi/ncinspect
 
-.. image:: https://img.shields.io/travis/jvu/ncinspect.svg
-        :target: https://travis-ci.org/jvu/ncinspect
+.. image:: https://img.shields.io/travis/thoughtful-tests/ncinspect.svg
+        :target: https://travis-ci.org/thoughtful-tests/ncinspect
 
 .. image:: https://readthedocs.org/projects/ncinspect/badge/?version=latest
         :target: https://ncinspect.readthedocs.io/en/latest/?badge=latest
